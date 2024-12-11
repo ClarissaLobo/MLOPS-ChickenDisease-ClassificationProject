@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Exclude chicks virtual environment folder
+/chicks/
+
 # Spyder project settings
 .spyderproject
 .spyproject
